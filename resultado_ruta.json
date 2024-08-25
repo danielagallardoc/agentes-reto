@@ -1,0 +1,16 @@
+{
+    "route": [
+        {
+            "checkpoint": 1,
+            "time_taken_minutes": 66
+        },
+        {
+            "checkpoint": 2,
+            "time_taken_minutes": 78
+        },
+        {
+            "checkpoint": 3,
+            "time_taken_minutes": 118
+        }
+    ]
+}
